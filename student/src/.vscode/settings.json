@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\MAHEK\\OneDrive\\Desktop\\student management.jar"
+    ]
+}
